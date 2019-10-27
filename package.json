@@ -1,0 +1,25 @@
+{
+  "name": "kdiscordbot",
+  "version": "1.0.0",
+  "description": "Un Bot Discord",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kev",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js",
+    "mathjs": "^6.2.3",
+    "mongoose": "^5.7.4",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.0",
+    "opusscript": "0.0.7",
+    "superagent": "^5.1.0",
+    "ytdl-core": "^1.0.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
+}
