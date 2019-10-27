@@ -19,6 +19,6 @@ config.js
 # license.txt
 # main.js
 package-lock.json
-package.json
+# package.json
 # patch_notes.md
 # README.md
