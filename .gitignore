@@ -1,0 +1,24 @@
+adminCommands/
+config/
+dev/
+# events/
+events/guildCreate.js
+events/guildMemberAdd.js
+inactiveCmd/
+modCommands/
+models/
+node_modules/
+notes/
+# userCommands/
+# util/
+util/mongoose.js
+util/tools.js
+# .gitignore
+config.js
+# LICENSE.md
+# license.txt
+# main.js
+package-lock.json
+package.json
+# patch_notes.md
+# README.md
